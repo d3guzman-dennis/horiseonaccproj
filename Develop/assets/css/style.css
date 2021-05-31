@@ -70,11 +70,14 @@ p {
     margin-left: 25px;
 }
 
-/* Content Style */
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+}
+/* Content Style */
+.content-style {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
